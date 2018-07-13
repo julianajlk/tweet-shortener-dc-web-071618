@@ -17,5 +17,8 @@ end
 def word_substituter(tweet)
   words = tweet.split(" ")
   shortened_word = []
-  words.each do |word|
+    words.each do |word|
+  end
+  tweet.join(" ")
+  
 end
